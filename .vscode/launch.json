@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.App",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayToStng<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.ArrayToStng",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Comma<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Comma",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeepToStng<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.DeepToStng",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoSta<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.DemoSta",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Electribil<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Electribil",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EmDetailsStream<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.EmDetailsStream",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Employeee_ch<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Employeee_ch",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex3FstnameSecName<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Ex3FstnameSecName",
+            "projectName": "qs1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Removeelement<qs1>",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.Removeelement",
+            "projectName": "qs1"
+        }
+    ]
+}
